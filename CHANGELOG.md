@@ -39,3 +39,4 @@ All notable changes to Ne0 are documented here.
 - JSON and HTML report generation
 - Async multi-threaded scanning engine
 - Rich terminal output
+- 2026-09-20 06:51:53 — Update reconnaissance documentation
