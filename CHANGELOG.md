@@ -40,3 +40,4 @@ All notable changes to Ne0 are documented here.
 - Async multi-threaded scanning engine
 - Rich terminal output
 - 2026-09-20 06:51:53 — Update reconnaissance documentation
+- 2026-09-20 06:51:54 — Improve scanner documentation
