@@ -47,3 +47,4 @@ All notable changes to Ne0 are documented here.
 - 2026-09-20 06:51:54 — Add maintenance notes
 - 2026-09-20 06:51:54 — Improve error handling documentation
 - 2026-09-20 06:51:54 — Update development notes
+- 2026-09-20 06:51:55 — Improve project documentation
