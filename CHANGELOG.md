@@ -43,3 +43,4 @@ All notable changes to Ne0 are documented here.
 - 2026-09-20 06:51:54 — Improve scanner documentation
 - 2026-09-20 06:51:54 — Update usage examples
 - 2026-09-20 06:51:54 — Improve configuration documentation
+- 2026-09-20 06:51:54 — Update module documentation
