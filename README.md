@@ -36,7 +36,7 @@ Ne0 is an automated external attack surface discovery and reconnaissance framewo
 ## Install
 
 ```bash
-git clone https://github.com/pokhrl/Ne0.git
+git clone https://github.com/p0khrl/Ne0.git
 cd Ne0
 pip install -r requirements.txt
 ```
